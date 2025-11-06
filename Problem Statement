@@ -1,0 +1,5 @@
+Design and develop online food service webpage with following information 
+a.	Create a form to enter first name, last name email id and phone number of the customer.
+b.	Create dropdown list to select food item along with its price 
+c.	Use text box to enter quantity of items order
+d.	Create a bill of the customer 
